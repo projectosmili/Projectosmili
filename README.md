@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hola , Soy Milianny Perdomo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Soy estudiante de la carrera de **Sistemas para Internet**, actualmente me encuentro a mitad de mis estudios.  
-Estoy ampliando mis conocimientos en **desarrollo mobile, data y back-end**.  
+Estoy ampliando mis conocimientos en **Data & Software Developer**.  
 Me apasiona aprender y crear soluciones.  
 Contáctame en: <a href="mailto:milicp.dev@gmail.com">milicp.dev@gmail.com</a> | <a href="https://www.linkedin.com/in/mili-cova-/" target="_blank">LinkedIn</a>
 
