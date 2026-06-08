@@ -1,7 +1,7 @@
-<h1 align="center"><b>Olá, Sou Milianny Perdomo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Olá Mundo. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Sou estudante do curso de **Sistemas para Internet**, atualmente estou na metade dos meus estudos.  
-Estou ampliando meus conhecimentos em **Data & Software Developer**.  
+Sou Milianny Perdom, estudante do curso de **Superior em Sistemas para Internet**, atualmente estou na metade dos meus estudos.  
+Estou ampliando meus conhecimentos em **Data, Mobile & Software Developer**.  
 Sou apaixonada por aprender e criar soluções.  
 Entre em contato: <a href="mailto:milicp.dev@gmail.com">milicp.dev@gmail.com</a> | <a href="https://www.linkedin.com/in/mili-cova-/" target="_blank">LinkedIn</a>
 
@@ -10,7 +10,7 @@ Entre em contato: <a href="mailto:milicp.dev@gmail.com">milicp.dev@gmail.com</a>
   Formação
 </h2>
 
-**Unicesumar (UTP)** <br/>
+**Unicesumar (Cascavel-PR)** <br/>
 🎓 Tecnólogo em Sistemas para Internet <br/>
 📅 2026 — Atualmente <br/>
 ⏳ Em andamento.
