@@ -49,6 +49,7 @@ Entre em contato: <a href="mailto:milicp.dev@gmail.com">milicp.dev@gmail.com</a>
 <p><b>Backend & CMS</b></p>
 <span>
   <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white">
+  <img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white">
 </span>
 
 <p><b>Dados & Produtividade</b></p>
