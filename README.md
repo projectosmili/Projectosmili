@@ -2,7 +2,7 @@
 
 Sou Milianny Perdom, estudante do curso de **Superior em Sistemas para Internet**, atualmente estou na metade dos meus estudos.  
 Estou ampliando meus conhecimentos em **Data, Mobile & Software Developer**.  
-Sou apaixonada por aprender e criar soluções.  
+Gosto de por aprender tempo todo.  
 Entre em contato: <a href="mailto:milicp.dev@gmail.com">milicp.dev@gmail.com</a> | <a href="https://www.linkedin.com/in/mili-cova-/" target="_blank">LinkedIn</a>
 
 <h2>
