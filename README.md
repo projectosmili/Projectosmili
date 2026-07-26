@@ -12,19 +12,19 @@ Entre em contato: <a href="mailto:milicp.dev@gmail.com">milicp.dev@gmail.com</a>
 
 **Unicesumar (Cascavel-PR)** <br/>
 🎓 Tecnólogo em Sistemas para Internet <br/>
-📅 2026 — Atualmente <br/>
-⏳ Em andamento.
+ 2026 — Atualmente <br/>
+ Em andamento.
 
 **Alura**<br/>
 🎓 Data Science <br/>
-📅 2026 — <br/>
-⏳ Finalizdo - 260h de estudos
+ 2026 — <br/>
+ Finalizdo - 260h de estudos
 
 **Harvard University (edX — CS50x)**<br/>
 🎓 CS50's Introduction to Computer Science <br/>
-📅 2024 <br/>
-⏳ Concluído. <br/>
-🕐 Carga horária: 12 semanas · 6–18 horas por semana (aprox. 72–216 hs no total)
+ 2024 <br/>
+ Concluído. <br/>
+ Carga horária: 12 semanas · 6–18 horas por semana (aprox. 72–216 hs no total)
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
 
