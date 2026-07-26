@@ -59,8 +59,8 @@ Entre em contato: <a href="mailto:milicp.dev@gmail.com">milicp.dev@gmail.com</a>
 
 <p><b>Arquitetura & Design</b></p>
 <span>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=for-the-badge&logo=diagram&logoColor=white">
-  <img src="https://img.shields.io/badge/Design%20System-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
+  <img src="https://img.shields.io/badge/Event--Driven%20Architecture-FF6B35?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=for-the-badge">
 </span>
 
 <h2>🌎 Idiomas</h2>
