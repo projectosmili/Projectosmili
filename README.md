@@ -1,7 +1,7 @@
 <h1 align="center"><b>Olá Mundo. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Sou Milianny Perdom, estudante do curso de **Superior em Sistemas para Internet**, atualmente estou na metade dos meus estudos.  
-Estou ampliando meus conhecimentos em **Data, Mobile & Software Developer**.  
+Estou ampliando meus conhecimentos em **Backend , data & Mobile**.  
 Gosto de por aprender tempo todo.  
 Entre em contato: <a href="mailto:milicp.dev@gmail.com">milicp.dev@gmail.com</a> | <a href="https://www.linkedin.com/in/mili-cova-/" target="_blank">LinkedIn</a>
 
@@ -17,8 +17,8 @@ Entre em contato: <a href="mailto:milicp.dev@gmail.com">milicp.dev@gmail.com</a>
 
 **Alura**<br/>
 🎓 Data Science <br/>
-📅 2026 — Atualmente <br/>
-⏳ Em andamento.
+📅 2026 — <br/>
+⏳ Finalizdo - 260h de estudos
 
 **Harvard University (edX — CS50x)**<br/>
 🎓 CS50's Introduction to Computer Science <br/>
@@ -32,8 +32,7 @@ Entre em contato: <a href="mailto:milicp.dev@gmail.com">milicp.dev@gmail.com</a>
 <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Goland-3178C6?style=for-the-badge&logo=Goland&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 </span>
