@@ -63,6 +63,13 @@ Entre em contato: <a href="mailto:milicp.dev@gmail.com">milicp.dev@gmail.com</a>
   <img src="https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=for-the-badge">
 </span>
 
+<p><b>IA & AI Coding</b></p>
+<span>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge">
+</span>
+
 <h2>🌎 Idiomas</h2>
 
 | Idioma | Nível |
