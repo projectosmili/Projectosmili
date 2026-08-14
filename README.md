@@ -1,4 +1,6 @@
-### Olá, eu sou a Milianny 👋
+### Olá, eu sou a Milianny 👋 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+</div>
 
 Meu nome é Milianny Perdomo e sou estudante de **Sistemas para Internet** na [Unicesumar](https://www.unicesumar.edu.br/), atualmente na metade do curso. Atuo como **desenvolvedora backend** trabalhando com **Go** , onde participo tanto do desenvolvimento quanto da qualidade do produto. Tenho background em e-commerce e gestão comercial, e gosto de aprender o tempo todo  hoje ampliando meus conhecimentos em backend, dados e mobile.
 
