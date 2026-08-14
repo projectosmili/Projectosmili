@@ -4,11 +4,11 @@
 
 Meu nome é Milianny Perdomo e sou estudante de **Sistemas para Internet** na [Unicesumar](https://www.unicesumar.edu.br/), atualmente na metade do curso. Atuo como **desenvolvedora backend** trabalhando com **Go** , onde participo tanto do desenvolvimento quanto da qualidade do produto. Tenho background em e-commerce e gestão comercial, e gosto de aprender o tempo todo  hoje ampliando meus conhecimentos em backend, dados e mobile.
 
-- 🔭 Atualmente trabalhando com **Go**, PostgreSQL e arquitetura orientada a eventos no backend da Shop Tour
+- 🔭 Atualmente trabalhando com **Go**, PostgreSQL e arquitetura orientada a eventos no backend 
 - 🌱 Aprendendo Go avançado, Docker, Kubernetes e Firebase Auth
 - 👯 Aberta a colaborar em projetos backend/Go e de dados
-- 🤔 Buscando trocar ideias sobre boas práticas de API, Clean Architecture e Data Engineering
-- 💬 Me chama para falar sobre Go, backend, arquitetura ou dados
+- 🤔 Buscando trocar ideias sobre boas práticas de API
+
 - 📫 Como me encontrar: milicp.dev@gmail.com
 
 - 
