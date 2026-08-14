@@ -22,7 +22,8 @@
 </p>
 
 <p align="left">
-  🛠️ <strong>Linguagens com as quais trabalho:</strong>
+  🛠️ <strong>STACK
+    :</strong>
 </p>
 <p align="left">
   <img 
