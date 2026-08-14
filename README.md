@@ -1,6 +1,6 @@
 ### Olá, eu sou a Milianny 👋
 
-Meu nome é Milianny Perdomo e sou estudante de **Sistemas para Internet** na [Unicesumar](https://www.unicesumar.edu.br/), atualmente na metade do curso. Atuo como **desenvolvedora backend** trabalhando com **Go** na Shop Tour, uma plataforma de marketplace, onde participo tanto do desenvolvimento quanto da qualidade do produto. Tenho background em e-commerce e gestão comercial, e gosto de aprender o tempo todo — hoje ampliando meus conhecimentos em backend, dados e mobile.
+Meu nome é Milianny Perdomo e sou estudante de **Sistemas para Internet** na [Unicesumar](https://www.unicesumar.edu.br/), atualmente na metade do curso. Atuo como **desenvolvedora backend** trabalhando com **Go** , onde participo tanto do desenvolvimento quanto da qualidade do produto. Tenho background em e-commerce e gestão comercial, e gosto de aprender o tempo todo  hoje ampliando meus conhecimentos em backend, dados e mobile.
 
 - 🔭 Atualmente trabalhando com **Go**, PostgreSQL e arquitetura orientada a eventos no backend da Shop Tour
 - 🌱 Aprendendo Go avançado, Docker, Kubernetes e Firebase Auth
@@ -8,7 +8,9 @@ Meu nome é Milianny Perdomo e sou estudante de **Sistemas para Internet** na [U
 - 🤔 Buscando trocar ideias sobre boas práticas de API, Clean Architecture e Data Engineering
 - 💬 Me chama para falar sobre Go, backend, arquitetura ou dados
 - 📫 Como me encontrar: milicp.dev@gmail.com
-- ⚡ Fun fact: já tive meu próprio negócio de e-commerce (Bohemili Store) antes de migrar para desenvolvimento
+
+- 
+- ⚡ Fun fact: já tive meu próprio negócio de e-commerce antes de migrar para desenvolvimento
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mili-cova-/)
 
 **Languages and Tools:**
