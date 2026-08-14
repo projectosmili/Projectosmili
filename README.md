@@ -10,14 +10,14 @@
 <h1 align="left">Olá! Eu sou <code>&lt;/Milianny&gt;</code></h1>
 
 <p align="left">
-  Meu nome é Milianny Perdomo e sou estudante de <strong>Sistemas para Internet</strong> na <a href="https://www.unicesumar.edu.br/" target="_blank">Unicesumar</a>, atualmente na metade do curso. Atuo como <strong>desenvolvedora backend</strong> trabalhando com <strong>Go</strong> na Shop Tour, uma plataforma de marketplace, onde participo tanto do desenvolvimento quanto da qualidade do produto. Tenho background em e-commerce e gestão comercial, e gosto de aprender o tempo todo — hoje ampliando meus conhecimentos em backend, dados e mobile.
+  Meu nome é Milianny Perdomo e sou estudante de <strong>Sistemas para Internet</strong> na <a href="https://www.unicesumar.edu.br/" target="_blank">Unicesumar</a>, atualmente na metade do curso. Atuo como <strong>desenvolvedora backend</strong> trabalhando com <strong>Go</strong>  uma plataforma de marketplace, onde participo tanto do desenvolvimento quanto da qualidade do produto. Tenho background em e-commerce e gestão comercial, e gosto de aprender o tempo todo — hoje ampliando meus conhecimentos em backend, dados e mobile.
 </p>
 
 <p align="left">
-  🔭 Atualmente trabalhando com <strong>Go</strong>, PostgreSQL e arquitetura orientada a eventos no backend da Shop Tour<br/>
+  🔭 Atualmente trabalhando com <strong>Go</strong>, PostgreSQL e arquitetura orientada a eventos no backend <br/>
   🌱 Aprendendo Go avançado, Docker, Kubernetes e Firebase Auth<br/>
   👯 Aberta a colaborar em projetos backend/Go e de dados<br/>
-  💬 Me chama para falar sobre Go, backend, arquitetura ou dados<br/>
+ 
   ⚡ Fun fact: já tive meu próprio negócio de e-commerce (Bohemili Store) antes de migrar para desenvolvimento
 </p>
 
