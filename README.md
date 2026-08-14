@@ -1,79 +1,147 @@
-<h1 align="center"><b>Olá Mundo. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
 
-Sou Milianny Perdom, estudante do curso de **Superior em Sistemas para Internet**, atualmente estou na metade dos meus estudos.  
-Estou ampliando meus conhecimentos em **Backend , data & Mobile**.  
-Gosto de por aprender tempo todo.  
-Entre em contato: <a href="mailto:milicp.dev@gmail.com">milicp.dev@gmail.com</a> | <a href="https://www.linkedin.com/in/mili-cova-/" target="_blank">LinkedIn</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=6E56CF&center=true&vCenter=true&width=460&lines=Ol%C3%A1+Mundo.+Sou+a+Milianny.;Backend+Developer+%7C+Go;Estudante+de+Sistemas+para+Internet;Sempre+aprendendo+algo+novo." alt="Typing SVG" />
 
-<h2>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0cWxnMHdtc2lsYXV5bG9zMmQ5ZHgya3Jrdjc1Zng0a3NlbnRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pGnNhScvs9Udt1WSkA/giphy.gif" width="25px">
-  Formação
-</h2>
+<br/>
 
-**Unicesumar (Cascavel-PR)** <br/>
-🎓 Tecnólogo em Sistemas para Internet <br/>
- 2026 — Atualmente <br/>
- Em andamento.
+<a href="mailto:milicp.dev@gmail.com"><img src="https://img.shields.io/badge/-milicp.dev%40gmail.com-171321?style=flat-square&logo=gmail&logoColor=6E56CF" /></a>
+<a href="https://www.linkedin.com/in/mili-cova-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-171321?style=flat-square&logo=linkedin&logoColor=6E56CF" /></a>
 
-**Alura**<br/>
-🎓 Data <br/>
- 2026 — <br/>
- Finalizdo - 260h de estudos
+</div>
 
-**Harvard University (edX — CS50x)**<br/>
-🎓 CS50's Introduction to Computer Science <br/>
- 2024 <br/>
- Concluído. <br/>
- Carga horária: 12 semanas · 6–18 horas por semana (aprox. 72–216 hs no total)
+<br/>
 
-<h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
-https://github.com/durgeshsamariya/awesome-github-profile-readme-templates#:~:text=Tecnologias%20em%20aprendizado
-<p><b>Stack</b></p>
-<span>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Goland-3178C6?style=for-the-badge&logo=Goland&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-</span>
+<table align="center" border="0">
+<tr>
+<td width="100%">
 
-<p><b>Mobile</b></p>
-<span>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-</span>
+Sou **Milianny Perdomo**, estudante de **Tecnologia em Sistemas para Internet** — atualmente na metade do curso — e venho ampliando meus conhecimentos em **Backend, Data & Mobile**. Gosto de aprender o tempo todo.
 
-<p><b>Backend & CMS</b></p>
-<span>
-  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white">
-  <img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white">
-</span>
+</td>
+</tr>
+</table>
 
-<p><b>Dados & Produtividade</b></p>
-<span>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-</span>
+<br/>
 
-<p><b>Arquitetura & Design</b></p>
-<span>
-  <img src="https://img.shields.io/badge/Event--Driven%20Architecture-FF6B35?style=for-the-badge&logo=apachekafka&logoColor=white">
-</span>
+<details open>
+<summary><b>🎓 &nbsp;Formação</b></summary>
+<br/>
 
-<p><b>IA & AI Coding</b></p>
-<span>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge">
-</span>
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-<h2>🌎 Idiomas</h2>
+**Unicesumar**
+<sub>Cascavel · PR</sub>
+
+Tecnólogo em Sistemas para Internet
+`2026 — atual`
+🟡 em andamento
+
+</td>
+<td align="center" width="33%">
+
+**Alura**
+<sub>Formação Data</sub>
+
+260h de estudos
+`2026`
+🟢 concluído
+
+</td>
+<td align="center" width="33%">
+
+**Harvard (edX)**
+<sub>CS50x</sub>
+
+Introduction to CS
+`2024` · 12 semanas
+🟢 concluído
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🛠️ &nbsp;Stack</b></summary>
+<br/>
+
+<div align="center">
+
+`Stack`
+<br/>
+<img src="https://img.shields.io/badge/HTML5-171321?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-171321?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Go-171321?style=flat-square&logo=go&logoColor=00ADD8" />
+<img src="https://img.shields.io/badge/C%23-171321?style=flat-square&logo=c-sharp&logoColor=512BD4" />
+<img src="https://img.shields.io/badge/Dart-171321?style=flat-square&logo=dart&logoColor=0175C2" />
+
+<br/><br/>
+
+`Mobile`
+<br/>
+<img src="https://img.shields.io/badge/Flutter-171321?style=flat-square&logo=flutter&logoColor=02569B" />
+<img src="https://img.shields.io/badge/Android-171321?style=flat-square&logo=android&logoColor=3DDC84" />
+<img src="https://img.shields.io/badge/Jetpack%20Compose-171321?style=flat-square&logo=jetpackcompose&logoColor=4285F4" />
+<img src="https://img.shields.io/badge/Firebase-171321?style=flat-square&logo=firebase&logoColor=FFCA28" />
+
+<br/><br/>
+
+`Backend & CMS`
+<br/>
+<img src="https://img.shields.io/badge/Sanity-171321?style=flat-square&logo=sanity&logoColor=F03E2F" />
+<img src="https://img.shields.io/badge/GoLand-171321?style=flat-square&logo=goland&logoColor=FF318C" />
+
+<br/><br/>
+
+`Dados & Produtividade`
+<br/>
+<img src="https://img.shields.io/badge/Power%20BI-171321?style=flat-square&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Excel-171321?style=flat-square&logo=microsoftexcel&logoColor=217346" />
+
+<br/><br/>
+
+`Arquitetura & Design`
+<br/>
+<img src="https://img.shields.io/badge/Event--Driven%20Architecture-171321?style=flat-square&logo=apachekafka&logoColor=FF6B35" />
+
+<br/><br/>
+
+`IA & AI Coding`
+<br/>
+<img src="https://img.shields.io/badge/ChatGPT-171321?style=flat-square&logo=openai&logoColor=74AA9C" />
+<img src="https://img.shields.io/badge/Codex-171321?style=flat-square&logo=openai&logoColor=B4A7FF" />
+<img src="https://img.shields.io/badge/Claude-171321?style=flat-square&logoColor=D97757" />
+
+</div>
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>🌎 &nbsp;Idiomas</b></summary>
+<br/>
+
+<div align="center">
 
 | Idioma | Nível |
-|--------|-------|
+|:--|:--|
 | 🇻🇪 Espanhol | Nativo |
 | 🇧🇷 Português | Avançado — em aprimoramento |
 | 🇺🇸 Inglês | Básico |
 | 🇫🇷 Francês | Leitura |
+
+</div>
+
+</details>
+
+<br/>
+
+<div align="center">
+<sub>Feito com atenção aos detalhes — sempre em construção. 🚧</sub>
+</div>
