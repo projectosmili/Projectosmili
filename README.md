@@ -10,7 +10,7 @@
 <h1 align="left">Olá! Eu sou <code>&lt;/Milianny&gt;</code></h1>
 
 <p align="left">
-  Sou <strong>desenvolvedora Backend</strong> especializada em <strong>Go</strong>, atuando no desenvolvimento de APIs e sistemas para plataformas de e-commerce. Gosto de unir organização e tecnologia, e compartilho aqui meus projetos acadêmicos e pessoais enquanto sigo aprimorando minhas habilidades. Meu objetivo é evoluir para um nível semi-sênior com autonomia técnica plena em backend.
+  Sou <strong>desenvolvedora Backend</strong> <strong>Trabhalo <strong>Go</strong>, atuando no desenvolvimento de APIs e sistemas para plataformas de e-commerce. Gosto de unir organização e tecnologia, e compartilho aqui meus projetos acadêmicos e pessoais enquanto sigo aprimorando minhas habilidades. Meu objetivo é evoluir para um nível semi-sênior com autonomia técnica plena em backend.
 </p>
 
 <p align="left">
