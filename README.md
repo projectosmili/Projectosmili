@@ -18,7 +18,7 @@
   🌱 Aprendendo Go avançado, Docker, Kubernetes e Firebase Auth<br/>
   👯 Aberta a colaborar em projetos backend/Go e de dados<br/>
  
-  ⚡ Fun fact: já tive meu próprio negócio de e-commerce (Bohemili Store) antes de migrar para desenvolvimento
+  ⚡ Fun fact: já tive meu próprio negócio de e-commerce, antes de migrar para desenvolvimento
 </p>
 
 <p align="left">
