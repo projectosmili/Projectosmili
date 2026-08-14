@@ -1,174 +1,32 @@
-<div align="center">
+### Olá, eu sou a Milianny 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=460&lines=Ol%C3%A1+Mundo.+Sou+a+Milianny.;Backend+Developer+%7C+Go;Estudante+de+Sistemas+para+Internet;Sempre+aprendendo+algo+novo." alt="Typing SVG" />
+Meu nome é Milianny Perdomo e sou estudante de **Sistemas para Internet** na [Unicesumar](https://www.unicesumar.edu.br/), atualmente na metade do curso. Atuo como **desenvolvedora backend** trabalhando com **Go** na Shop Tour, uma plataforma de marketplace, onde participo tanto do desenvolvimento quanto da qualidade do produto. Tenho background em e-commerce e gestão comercial, e gosto de aprender o tempo todo — hoje ampliando meus conhecimentos em backend, dados e mobile.
 
-<br/>
+- 🔭 Atualmente trabalhando com **Go**, PostgreSQL e arquitetura orientada a eventos no backend da Shop Tour
+- 🌱 Aprendendo Go avançado, Docker, Kubernetes e Firebase Auth
+- 👯 Aberta a colaborar em projetos backend/Go e de dados
+- 🤔 Buscando trocar ideias sobre boas práticas de API, Clean Architecture e Data Engineering
+- 💬 Me chama para falar sobre Go, backend, arquitetura ou dados
+- 📫 Como me encontrar: milicp.dev@gmail.com
+- ⚡ Fun fact: já tive meu próprio negócio de e-commerce (Bohemili Store) antes de migrar para desenvolvimento
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mili-cova-/)
 
-<a href="mailto:milicp.dev@gmail.com"><img src="https://img.shields.io/badge/-milicp.dev%40gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=38BDF8" /></a>
-<a href="https://www.linkedin.com/in/mili-cova-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=38BDF8" /></a>
+**Languages and Tools:**
 
-</div>
+![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
+![C%23](https://img.shields.io/badge/-C%23-black?logo=csharp&style=social)&nbsp;&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-black?logo=dart&style=social)&nbsp;&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-black?logo=flutter&style=social)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase&style=social)&nbsp;&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)&nbsp;&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?logo=powerbi&style=social)&nbsp;&nbsp;
 
-<br/>
-
-<table align="center" border="0">
-<tr>
-<td width="100%">
-
-Sou **Milianny Perdomo**, estudante de **Tecnologia em Sistemas para Internet** — atualmente na metade do curso — e venho ampliando meus conhecimentos em **Backend, Data & Mobile**. Gosto de aprender o tempo todo.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<details open>
-<summary><b>🎓 &nbsp;Formação</b></summary>
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**Unicesumar**
-<sub>Cascavel · PR</sub>
-
-Tecnólogo em Sistemas para Internet
-`2026 — atual`
-🟡 em andamento
-
-</td>
-<td align="center" width="33%">
-
-**Alura**
-<sub>Formação Data</sub>
-
-260h de estudos
-`2026`
-🟢 concluído
-
-</td>
-<td align="center" width="33%">
-
-**Harvard (edX)**
-<sub>CS50x</sub>
-
-Introduction to CS
-`2024` · 12 semanas
-🟢 concluído
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>📊 &nbsp;Dashboard</b></summary>
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&border_radius=8" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_radius=8" height="165" alt="Top Langs" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&hide_border=true&theme=dark&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681&border_radius=8" height="165" alt="Streak Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&bg_color=0D1117&color=38BDF8&line=38BDF8&point=C9D1D9&hide_border=true&area=true&area_color=38BDF8" width="90%" alt="Activity Graph" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="90%" alt="Trophies" />
-
-</div>
-
-</details>
-
-<br/>
-
-<details open>
-<summary><b>🛠️ &nbsp;Stack</b></summary>
-<br/>
-
-<div align="center">
-
-`Stack`
-<br/>
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=00ADD8" />
-<img src="https://img.shields.io/badge/C%23-0D1117?style=flat-square&logo=c-sharp&logoColor=512BD4" />
-<img src="https://img.shields.io/badge/Dart-0D1117?style=flat-square&logo=dart&logoColor=0175C2" />
-
-<br/><br/>
-
-`Mobile`
-<br/>
-<img src="https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=02569B" />
-<img src="https://img.shields.io/badge/Android-0D1117?style=flat-square&logo=android&logoColor=3DDC84" />
-<img src="https://img.shields.io/badge/Jetpack%20Compose-0D1117?style=flat-square&logo=jetpackcompose&logoColor=4285F4" />
-<img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28" />
-
-<br/><br/>
-
-`Backend & CMS`
-<br/>
-<img src="https://img.shields.io/badge/Sanity-0D1117?style=flat-square&logo=sanity&logoColor=F03E2F" />
-<img src="https://img.shields.io/badge/GoLand-0D1117?style=flat-square&logo=goland&logoColor=FF318C" />
-
-<br/><br/>
-
-`Dados & Produtividade`
-<br/>
-<img src="https://img.shields.io/badge/Power%20BI-0D1117?style=flat-square&logo=powerbi&logoColor=F2C811" />
-<img src="https://img.shields.io/badge/Excel-0D1117?style=flat-square&logo=microsoftexcel&logoColor=217346" />
-
-<br/><br/>
-
-`Arquitetura & Design`
-<br/>
-<img src="https://img.shields.io/badge/Event--Driven%20Architecture-0D1117?style=flat-square&logo=apachekafka&logoColor=FF6B35" />
-
-<br/><br/>
-
-`IA & AI Coding`
-<br/>
-<img src="https://img.shields.io/badge/ChatGPT-0D1117?style=flat-square&logo=openai&logoColor=74AA9C" />
-<img src="https://img.shields.io/badge/Codex-0D1117?style=flat-square&logo=openai&logoColor=B4A7FF" />
-<img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logoColor=D97757" />
-
-</div>
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🌎 &nbsp;Idiomas</b></summary>
-<br/>
-
-<div align="center">
-
-| Idioma | Nível |
-|:--|:--|
-| 🇻🇪 Espanhol | Nativo |
-| 🇧🇷 Português | Avançado — em aprimoramento |
-| 🇺🇸 Inglês | Básico |
-| 🇫🇷 Francês | Leitura |
-
-</div>
-
-</details>
-
-<br/>
-
-<div align="center">
-<sub>Feito com atenção aos detalhes — sempre em construção. 🚧</sub>
-</div>
+![Milianny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO.SEU_USUARIO)
