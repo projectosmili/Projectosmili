@@ -127,5 +127,6 @@
 </p>
 
 ------
-**Créditos:** [SEU_USUARIO](https://github.com/SEU_USUARIO)  
+**Créditos:** [PROJECTOSMILI
+(https://github.com/SEU_USUARIO)  
 **Última edição:** 13/08/2026
