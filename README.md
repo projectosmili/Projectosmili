@@ -60,7 +60,6 @@ https://github.com/durgeshsamariya/awesome-github-profile-readme-templates#:~:te
 <p><b>Arquitetura & Design</b></p>
 <span>
   <img src="https://img.shields.io/badge/Event--Driven%20Architecture-FF6B35?style=for-the-badge&logo=apachekafka&logoColor=white">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-6DB33F?style=for-the-badge">
 </span>
 
 <p><b>IA & AI Coding</b></p>
