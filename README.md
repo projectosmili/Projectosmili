@@ -71,6 +71,12 @@ Introduction to CS
 <br/>
 
 <div align="center">
+<img src="./assets/stack-banner.svg" width="100%" alt="Stack" />
+</div>
+
+<br/>
+
+<div align="center">
 
 `Stack`
 <br/>
