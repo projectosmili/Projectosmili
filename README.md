@@ -27,7 +27,7 @@ Entre em contato: <a href="mailto:milicp.dev@gmail.com">milicp.dev@gmail.com</a>
  Carga horária: 12 semanas · 6–18 horas por semana (aprox. 72–216 hs no total)
 
 <h2><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"> Habilidades</h2>
-
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates#:~:text=Tecnologias%20em%20aprendizado
 <p><b>Stack</b></p>
 <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
