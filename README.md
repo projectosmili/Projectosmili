@@ -16,7 +16,7 @@ Entre em contato: <a href="mailto:milicp.dev@gmail.com">milicp.dev@gmail.com</a>
  Em andamento.
 
 **Alura**<br/>
-🎓 Data Science <br/>
+🎓 Data <br/>
  2026 — <br/>
  Finalizdo - 260h de estudos
 
